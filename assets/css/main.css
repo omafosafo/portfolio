@@ -35,6 +35,7 @@ body {
 
 ol, ul {
 	list-style: none;
+	
 }
 
 blockquote, q {
@@ -298,7 +299,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #18bfef !important;
+			/*color: #18bfef !important;*/
 		}
 
 	strong, b {
